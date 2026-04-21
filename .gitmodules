@@ -1,0 +1,3 @@
+[submodule "deps/httpserver"]
+	path = deps/httpserver
+	url = https://github.com/jeremycw/httpserver.h.git
