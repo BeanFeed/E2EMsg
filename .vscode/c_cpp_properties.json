@@ -8,6 +8,7 @@
         "${workspaceFolder}/deps/httpserver",
         "${workspaceFolder}/deps/httpserver/src"
       ],
+      "compileCommands": "${workspaceFolder}/build/compile_commands.json",
       "defines": [
         "EPOLL"
       ],
