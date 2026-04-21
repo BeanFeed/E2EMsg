@@ -1,3 +1,0 @@
-/home/austind/Code/Utilities/E2EMsg/build/CMakeFiles/E2EMsg.dir
-/home/austind/Code/Utilities/E2EMsg/build/CMakeFiles/edit_cache.dir
-/home/austind/Code/Utilities/E2EMsg/build/CMakeFiles/rebuild_cache.dir
