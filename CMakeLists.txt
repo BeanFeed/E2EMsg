@@ -8,6 +8,8 @@ set(CMAKE_C_EXTENSIONS ON)
 
 add_executable(E2EMsg
 	src/main.c
+	src/router/router.c
+
 )
 
 target_include_directories(E2EMsg PRIVATE
